@@ -1,0 +1,15 @@
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\bin\Debug\net6.0\block_it-spec.exe
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\bin\Debug\net6.0\block_it-spec.deps.json
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\bin\Debug\net6.0\block_it-spec.runtimeconfig.json
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\bin\Debug\net6.0\block_it-spec.dll
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\bin\Debug\net6.0\block_it-spec.pdb
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.csproj.AssemblyReference.cache
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.AssemblyInfoInputs.cache
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.AssemblyInfo.cs
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.csproj.CoreCompileInputs.cache
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.dll
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\refint\block_it-spec.dll
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.pdb
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\block_it-spec.genruntimeconfig.cache
+C:\Users\Win PC\Documents\Study\geekbrains c sharp\block it-spec\block_it-spec\obj\Debug\net6.0\ref\block_it-spec.dll
